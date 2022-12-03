@@ -119,9 +119,9 @@ http://210.210.155.35/qwr9ew/s/s39/01.m3u8
 http://210.210.155.35/qwr9ew/s/s28/01.m3u8
 #EXTINF:-1,(ID) TVRI NUSA TENGGARA TIMUR
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINttkupang)/index.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="cctv5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="CCTV-HD",CCTV-5 HD
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="CCTV-HD",CCTV-5+ HD
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="CCTV-HD",CCTV-5+ HD
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
+
+#EXTINF:-1 tvg-id="cctv5" tvg-logo="cctv5.png",CCTV-5 体育
+http://ott.mobaibox.com/PLTV/3/224/3221227298/index.m3u8
+
+#EXTINF:-1 tvg-id="cctv5plus" tvg-logo="cctv5plus.png",CCTV-5+ 体育赛事
+http://ott.mobaibox.com/PLTV/3/224/3221227381/index.m3u8

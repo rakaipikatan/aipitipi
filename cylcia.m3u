@@ -119,5 +119,11 @@ http://210.210.155.35/qwr9ew/s/s39/01.m3u8
 http://210.210.155.35/qwr9ew/s/s28/01.m3u8
 #EXTINF:-1,(ID) TVRI NUSA TENGGARA TIMUR
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINttkupang)/index.m3u8
-#EXTINF:-1 gruop-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/52/VTV2_HD.png",VTV2 HD 
-https://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv2_w150_h150.png" group-title="VTV", VTV2 HD SV1
+http://baochinh.ml/iptv-nexttv.php?kenh=vtv2
+#EXTINF:-1 tvg-id="VTV 2" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv2_w150_h150.png" group-title="VTV", VTV2 HD SV2
+https://cdn-livestream-live.vtvgiaitri.vn/vtv2.smil/chunklist_b2000000.m3u8 
+#EXTINF:-1 tvg-id="VTV 2" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv2_w150_h150.png" group-title="VTV", VTV2 HD SV3
+https://cdn-livestream-live.vtvgiaitri.vn/vtv2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="VTV 2" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv2_w150_h150.png" group-title="VTV", VTV2 HD SV4
+http://cdn-livestream-live.vtvgiaitri.vn/vtv2.smil/chunklist_b1500000.m3u8

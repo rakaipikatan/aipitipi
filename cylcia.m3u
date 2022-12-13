@@ -136,46 +136,6 @@ http://210.210.155.35/qwr9ew/s/s04/index10.m3u8
 #EXTINF:-1 group-title="Indonesia TV",TVRI Sport HD
 http://210.210.155.35/qwr9ew/s/s107/index.m3u8 
 
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",ANIMAL PLANET
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/157532?checkedby:iptvcat.net
-
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Sport",All Sports
-http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/chunklist_b307200_slFa.m3u8?checkedby:iptvcat.net
-
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",Cartoon Network
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/157593?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",Crime+ Investigation
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/165052?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",Disney Channel
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/165075?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",Disney Junior
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/162511?checkedby:iptvcat.net
-
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Sport",FOX SPORTS 1
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/162517?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",Fox Crime
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/165076?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",Fox Life
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/165083?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",Fox Movies Action
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/157608?checkedby:iptvcat.net
-
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",HBO Family
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/197055?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",HBO HITS
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/196480?checkedby:iptvcat.net
-
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",MNC TV
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/165054?checkedby:iptvcat.net
-
-
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",NAT GEO
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/165094?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",NET.1
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/266806?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",Nick Junior
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/165107?checkedby:iptvcat.net
 #EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",RCTI
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/157591?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ID" tvg-logo="https://i.postimg.cc/13Nm4VLb/20191010-164600.png" group-title="Undefined",RCTI (720p)
-https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8?checkedby:iptvcat.net
+
